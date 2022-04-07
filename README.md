@@ -14,6 +14,8 @@
 ```shell
 node main.js
 ```
++ 运行结果存放于output文件夹中
+
 
 ## 声明
 
