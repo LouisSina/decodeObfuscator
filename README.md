@@ -14,6 +14,10 @@
 ```shell
 node main.js
 ```
+详细使用教程:
+
+[v_jstools](https://github.com/cilame/v_jstools)
+
 + 运行结果存放于output文件夹中
 
 
@@ -25,7 +29,8 @@ node main.js
 
 ## 感谢v神打包的babel库,欢迎使用他的插件做调试跟踪
 
-[v_jstools](https://github.com/cilame/v_jstools)
+
+[免安装一键还原ob混淆详细使用教程](https://mp.weixin.qq.com/s/SPq9lccW9nXYREp1494bhg)
 
 
 # 交流群 （加我好友拉你进群）
