@@ -38,3 +38,9 @@ node main.js
 ![Test](https://github.com/Tsaiboss/ControlFlow/blob/main/QR%20code/%E5%BE%AE%E4%BF%A1%E5%8F%B7.jpg) 
 
 个人微信:523176585
+
+# 知识星球
+
+![Test](https://github.com/Tsaiboss/ControlFlow/blob/main/QR%20code/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.jpg) 
+
+欢迎加入我的知识星球。
