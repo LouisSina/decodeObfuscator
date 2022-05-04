@@ -25,7 +25,9 @@ node main.js
 
 本项目不针对任何加密做破解等处理，只为学习AST技术。
 
-本项目仅作学习研究之用，下载学习后请于24小时内删除，不可用于破解（本身也不包含破解功能），如使用本工具造成任何法律后果，由使用者承担。
+请勿将decodeObfuscator应用到任何可能会违反法律规定和道德约束的工作中，不要将decodeObfuscator用于任何非法用途。
+
+如您选择使用decodeObfuscator即代表您遵守此协议，作者不承担任何由于您违反此协议带来任何的法律风险和损失，一切后果由您承担。
 
 ## 感谢v神打包的babel库,欢迎使用他的插件做调试跟踪
 
@@ -39,8 +41,4 @@ node main.js
 
 个人微信:523176585
 
-# 知识星球
 
-![Test](https://github.com/Tsaiboss/ControlFlow/blob/main/QR%20code/%E7%9F%A5%E8%AF%86%E6%98%9F%E7%90%83.jpg) 
-
-欢迎加入我的知识星球。
