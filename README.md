@@ -14,14 +14,14 @@
 ```shell
 node main.js
 ```
+
++ 运行结果存放于output文件夹中
+
 详细使用教程:
 
 [免安装一键还原ob混淆详细使用教程](https://mp.weixin.qq.com/s/SPq9lccW9nXYREp1494bhg)
 
 [JS逆向|ob混淆一键还原实战案例2篇](https://mp.weixin.qq.com/s/ibVmlHNIQjUcga4fYxmhCA)
-
-
-+ 运行结果存放于output文件夹中
 
 
 ## 声明
