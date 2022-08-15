@@ -32,9 +32,6 @@ node main.js
 
 如您选择使用decodeObfuscator即代表您遵守此协议，作者不承担任何由于您违反此协议带来任何的法律风险和损失，一切后果由您承担。
 
-## 感谢v神打包的babel库,欢迎使用他的插件做调试跟踪
-
-[v_jstools](https://github.com/cilame/v_jstools)
 
 # 交流群 （加我好友拉你进群）。
 
@@ -44,5 +41,7 @@ node main.js
 个人微信:523176585
 
 Email : 523176585@qq.com
+
+
 
 
