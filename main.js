@@ -1,7 +1,7 @@
 ﻿/*****************************************************
 Module name:main.js
 Author:悦来客栈的老板
-Date:2022.04.06
+Date:2022.08.15
 
 
 混淆工具地址:https://obfuscator.io/
@@ -20,8 +20,8 @@ https://www.bilibili.com/video/BV16V411H7yz
 *****************************************************/
 
 const fs               = require('fs');
-const usefulPlugins    = require("./tools/usefulPlugins");
-const decodeObfuscator = require("./tools/decodeOb");
+const usefulPlugins    = require("./tools/babel_pack");
+
 
 
 //js混淆代码读取
@@ -31,6 +31,12 @@ process.argv.length > 3 ? decodeFile = process.argv[3]: decodeFile ="./output/de
 //将源代码解析为AST
 let sourceCode = fs.readFileSync(encodeFile, {encoding: "utf-8"});
 let ast    = parser.parse(sourceCode);
+
+if(!sourceCode.includes("_0x"))
+{
+	console.log("混淆代码非ob混淆，直接退出！");
+	process.exit(0);
+}
 
 console.time("处理完毕，耗时");
 
